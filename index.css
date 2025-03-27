@@ -16,6 +16,10 @@
   border-radius: 25px;
   background-color: red;
 }
+img{
+  width: 100%;
+  height: 100%;
+}
 .user_info{
   display: flex;
   flex-direction: column;
@@ -30,19 +34,19 @@
   border-radius: 6px;
 }
 .item1{
-  background-color: #3F0086;
+  background-color: #34363A;
   color: white;
 }
 .item2{
-  background-color: grey;
+  background-color: #4C4A5C;
   color: white;
 }
 .item3{
   background-color: white;
-  color: black;
+  color: #4C4A5C;
 }
 .item4{
-  background-color: black;
+  background-color: #5A23B1;
   color: white;
 }
 .item5{
